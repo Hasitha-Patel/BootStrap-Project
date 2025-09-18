@@ -26,5 +26,6 @@ This project remixes Bootstrap components into a small 3-page website:
 - **Spacing issues:** Solved with Bootstrap utility classes (`py-5`, `g-4`).
 
   ## Live Demo
-- GitHub repo: https://github.com/your-username/repo-name  
-- Live site: https://your-username.github.io/repo-name/  
+- GitHub repo: https://hasitha-patel.github.io/BootStrap-Project/  
+- Live site:   https://hasitha-patel.github.io/BootStrap-Project/
+
