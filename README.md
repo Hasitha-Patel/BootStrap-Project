@@ -22,4 +22,9 @@ This project remixes Bootstrap components into a small 3-page website:
 
 ## Challenges & Solutions
 - **Form not working locally:** Works only after deployment to Netlify → solved by adding `data-netlify="true"` and deploying.
+
 - **Spacing issues:** Solved with Bootstrap utility classes (`py-5`, `g-4`).
+
+  ## Live Demo
+- GitHub repo: https://github.com/your-username/repo-name  
+- Live site: https://your-username.github.io/repo-name/  
